@@ -1,0 +1,891 @@
+---
+
+- taxonomy: 常用置顶
+  icon: far fa-star
+  list:
+    - term: 测试网Pryzm++Nibiru
+      links:
+
+        - title: Keplr钱包
+          logo: 
+          url: https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=zh-CN&utm_source=ext_sidebar
+          description: TIA,ATOM
+        - title: Pryzm测试网
+          logo: 
+          url: https://testnet.pryzm.zone/
+          description: 领水faucet, swap,pools,stake,governance治理
+        - title: Pryzm测试网教程
+          logo: 
+          url: https://twitter.com/zlexdl/status/1756854176880165306
+          description: twitter教程
+        - title: Nibiru测试网
+          logo: 
+          url: https://nibiru.fi/airdrops
+          description: https://twitter.com/A8_NFT/status/1756843476333838694
+        - title: Nibiru测试网twitter教程
+          logo: 
+          url: https://twitter.com/A8_NFT/status/1756843476333838694
+          description: 
+        - title: Nibiru领测试币
+          logo: 
+          url: https://app.nibiru.fi/faucet
+          description: 
+        - title: Nibiru-stake
+          logo: 
+          url: https://app.nibiru.fi/stake
+          description: 任意节点质押
+        - title: Nibiru加入DC
+          logo: 
+          url: https://discord.com/invite/nibirufi
+          description: 
+        - title: AXIOM测试网
+          logo: 
+          url: https://repl.axiom.xyz/
+          description: 
+        - title: Venom测试网
+          logo: 
+          url: https://venom.network/
+          description: 
+
+
+    - term: 临时占顶--Gitcoin大于20分可以领
+      links:
+        - title: Mocaverse
+          logo: 
+          url: https://account.mocaverse.xyz/
+          description: 
+        - title: stark域名领白名单
+          logo: 
+          url: https://starkurabu.com/whitelist
+          description: 
+        - title: stark领取资格
+          logo: 
+          url: https://provisions.starknet.io/
+          description: 
+        - title: stark-头盔摇奖
+          logo: 
+          url: https://1-million-strk-raffle.braavos.app/
+          description: 
+        - title: Takio
+          logo: 
+          url: https://galxe.com/taiko
+          description: 大于20分，直接领2500分
+        - title: zksync guild领角色
+          logo: 
+          url: https://guild.xyz/zksync-era
+          description: 大于20分
+        - title: Zerolend工会
+          logo: 
+          url: https://guild.xyz/zerolend
+          description: ""
+        - title: Fuel工会
+          logo: 
+          url: https://guild.xyz/fuel
+          description: ""
+        - title: Burnt工会-1个
+          logo: 
+          url: https://guild.xyz/burnt
+          description: ""
+        - title: Particle blast工会-2-3个
+          logo: 
+          url: https://guild.xyz/particle
+          description: ""
+        - title: Galxe工会-1个
+          logo: 
+          url: https://guild.xyz/galxe
+          description: ""
+        - title: Blockchain工会-1个
+          logo: 
+          url: https://guild.xyz/mint-blockchain
+          description: ""
+        - title: TAHO--3个
+          logo: 
+          url: https://guild.xyz/taho
+          description: 
+        - title: Chainlink工会-链上余额--3个
+          logo: 
+          url: https://guild.xyz/chainlink
+          description: 这个多，用过多少链就有几个角色
+        - title: zetachain--1个
+          logo: 
+          url: https://guild.xyz/zetachain
+          description: 
+        - title: POAP--1个
+          logo: 
+          url: https://guild.xyz/poap
+          description: 
+        - title: pooltogether--1个
+          logo: 
+          url: https://guild.xyz/pooltogether
+          description:             
+        - title: omni--1个
+          logo: 
+          url: https://guild.xyz/omni-network
+          description: 
+        - title: stargate--1个
+          logo: 
+          url: https://guild.xyz/stargate
+          description: 
+        - title: snapshot--1个
+          logo: 
+          url: https://guild.xyz/snapshot
+          description:             
+        - title: Layer3--1个
+          logo: 
+          url: https://guild.xyz/layer3
+          description: 
+        - title: zerion--1个
+          logo: 
+          url: https://guild.xyz/zerion
+          description: 
+
+    - term: 建议做
+      links:    
+        - title: element-NFT先做这个，之后再去做Galxe任务
+          logo: 
+          url: https://element.market/blast_testnet/launchpad/cyberbot
+          description: 先做这个，就30w个，不到一小时已经5w个了
+        - title: Blast-Galxe-element-NFT先做这个
+          logo: 
+          url: https://galxe.com/ElementMarket/campaign/GCEJ5twYfN
+          description: 先做这个，就30w个，不到一小时已经5w个了
+        - title: DOP-Galxe-截止到2月26日
+          logo: 
+          url: https://galxe.com/DOP/campaign/GCEdWtwmMW
+          description: 
+        - title: Taiko-Galxe(截止日期分别是2/8-2/13)
+          logo: taiko.svg
+          url: https://galxe.com/taiko/campaign/GCj2Ztw9m1
+          description: --CACDC
+        - title: Bera相关
+          logo: Bera.svg
+          url: https://artio.faucet.berachain.com/#dapps
+          description: 可以进入所以的交互网站
+        - title: Bera-Galxe每天领测试币和积分
+          logo: Bera.svg
+          url: https://galxe.com/Berachain/campaign/GCTN3ttM4T
+          description: 
+
+        - title: Particle-Galxe
+          logo: Particle.ico
+          url: https://galxe.com/particle
+          description:          
+        - title: Particle-Blast域名
+          logo: Particle.ico
+          url: https://app.blastns.domains/ 
+          description: 
+
+        - title: XION-Galxe(截止到2月9日)
+          logo: 
+          url: https://galxe.com/burnt/campaign/GC5ZMtUfxn
+          description: 先用邀请链接进，然后再做这个任务
+
+    - term: 跨链桥
+      links:
+        - title: Bungee
+          logo: 
+          url: https://www.bungee.exchange/
+          description: ""
+        - title: 猫头鹰owlto
+          logo: 
+          url: https://owlto.finance/?ref=0xAbE93EE83Fd37E57ed9eb849b0D29846bB7B7E31
+          description: kasa推荐链接
+        - title: 犀牛rhino
+          logo: 
+          url: https://app.rhino.fi/bridge
+          description: ""
+        - title: stargate
+          logo: 
+          url: https://stargate.finance/transfer
+          description: ""
+        - title: Omnibtc
+          logo: 
+          url: https://app.omnibtc.finance/swap
+          description: ""
+        - title: Layerswap
+          logo: 
+          url: https://www.layerswap.io/
+          description: 支持zklite
+        - title: 小飞碟orbiter
+          logo: 
+          url: https://www.orbiter.finance/
+          description: ""
+        - title: Jumper
+          logo: 
+          url: https://jumper.exchange/
+          description: ""
+        - title: Uniswap
+          logo: 
+          url: https://app.uniswap.org/swap 
+          description: "" 
+
+
+    - term: 常用
+      links:
+        - title: Dmail
+          logo: 
+          url: https://mail.dmail.ai/login?path=%2Fpresale%2F391407
+          description: hd3推荐链接
+        - title: Debank
+          logo: 
+          url: https://debank.com/
+          description: 查小狐狸资产
+        - title: Solana资产看板
+          logo: 
+          url: https://app.step.finance/en/dashboard
+          description: 查solana资产
+
+        - title: K线
+          logo: 
+          url: https://dexscreener.com/ethereum
+          description: ""
+        - title: 部署合约Remix
+          logo: 
+          url: https://remix.ethereum.org/
+          description: ""
+        - title: 部署合约Openzeppelin
+          logo: 
+          url: https://docs.openzeppelin.com/contracts/5.x/wizard
+          description: ""
+        - title: 部署合约Thirdweb
+          logo: 
+          url: https://thirdweb.com/dashboard
+          description: ""
+        - title: ENS域名
+          logo: 
+          url: https://app.ens.domains/
+          description: 
+        - title: 买域名spaceid
+          logo: 
+          url: https://space.id/
+          description: ""
+        - title: 兔子洞
+          logo: 
+          url: https://rabbithole.gg/quests
+          description: ""
+        - title: 查比特币gas
+          logo: 
+          url: https://mempool.space/zh/
+          description: ""
+        - title: 查ETH gas
+          logo: 
+          url: https://beaconcha.in/gasnow
+          description: ""
+        - title: Gitcoin捐款
+          logo: 
+          url: https://explorer.gitcoin.co/
+          description: ""
+        - title: Gitcoin-Passport得分
+          logo: 
+          url: https://passport.gitcoin.co/#/
+          description: ""
+        - title: L0-snapshot投票
+          logo: 
+          url: https://snapshot.org/#/stgdao.eth
+          description: ""
+        - title: Revoke钱包取消授权
+          logo: 
+          url: https://revoke.cash/zh
+          description: ""
+
+
+
+    - term: 钱包插件
+      links:
+        - title: SwitchyOmega插件
+          logo: ProxySwitchyOmega.png
+          url: https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+          description: ""
+        - title: 侧边翻译
+          logo: 侧边翻译.png
+          url: https://chrome.google.com/webstore/detail/edge-translate/bocbaocobfecmglnmeaeppambideimao?hl=zh-CN
+          description: ""
+        - title: 小狐狸钱包
+          logo: MetaMask.png
+          url: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=ext_app_menu
+          description: ""
+        - title: 头盔钱包
+          logo: 头盔.png
+          url: https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma?hl=zh-CN
+          description: STARKNET
+        - title: OKX钱包及任务
+          logo: OKX.png
+          url: https://www.okx.com/cn/web3/discover/cryptopedia
+          description: ""
+        - title: Solana-phantom钱包
+          logo: Phantom.png
+          url: https://phantom.app/
+          description: ""
+        - title: Solana-Backpack钱包
+          logo: Backpack.png
+          url: https://backpack.app/downloads
+          description: ""
+        - title: UNISAT钱包
+          logo: Unisat.png
+          url: https://unisat.io/download
+          description: ""
+        - title: Fuel钱包
+          logo: Fuel.png
+          url: https://chromewebstore.google.com/detail/fuel-wallet/dldjpboieedgcmpkchcjcbijingjcgok
+          description: ""
+        - title: TP钱包
+          logo: TokenPocket.png
+          url: https://www.tokenpocket.pro/
+          description: ""
+        - title: Keplr钱包
+          logo: 
+          url: https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=zh-CN&utm_source=ext_sidebar
+          description: TIA,ATOM
+        - title: MagicEden钱包
+          logo: 
+          url: https://wallet.magiceden.io/
+          description: 
+
+    - term: 四件套
+      links:
+        - title: Twitter
+          logo: ""
+          url: https://twitter.com/
+          description: ""
+        - title: Discord
+          logo: ""
+          url: https://discord.com/
+          description: ""
+        - title: Telegram网页版
+          logo: ""
+          url: https://web.telegram.org/
+          description: ""
+        - title: Outlook邮箱
+          logo: ""
+          url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f%3focid%3dPROD_Edge_CONS_WebXT_FM_EDG_NTP-Waffle-Outlook&sdf=0
+          description: ""
+        - title: Proton邮箱
+          logo: ""
+          url: https://proton.me/
+          description: ""
+
+
+
+- taxonomy: 主网任务
+  icon: fas fa-flask fa-lg
+  list:
+    - term: Scroll
+      links:
+        - title: 添加网络
+          logo: scroll.png
+          url: https://scroll.io/portal
+          description: ""
+        - title: scroll主网跨链
+          logo: scroll.png
+          url: https://scroll.io/bridge
+          description: ""
+        - title: Scroll所有生态defillama
+          logo: scroll.png
+          url: https://defillama.com/chain/Scroll
+          description: ""
+        - title: 官网生态交互
+          logo: scroll.png
+          url: https://scroll.io/ecosystem
+          description: ""
+
+    - term: Zksync
+      links:
+        - title: zkSync官网
+          logo: rsz_zksync era.webp
+          url: https://zksync.io/
+          description: ""
+        - title: Chainlist添加ZKS网络
+          logo: chainlist.png
+          url: https://chainlist.org/?search=zks
+          description: ""
+        - title: ZK所有生态defillama
+          logo: defillama.png
+          url: https://defillama.com/chain/zkSync%20Era
+          description: ""
+        - title: 主网跨链桥txSync
+          logo: partner-txsync.svg
+          url: https://zksync.io/explore#bridges
+          description: ""
+
+        - title: zkflow
+          logo: zkSwap.png
+          url: https://zkswap.finance/zkflow
+          description: 查交互信息，tx数，推荐dapp
+        - title: Maverick
+          logo: Maverick.png
+          url: https://app.mav.xyz/
+          description: swap20U
+        - title: izumiswap
+          logo: iZUMi.png
+          url: https://izumi.finance/trade/swap
+          description: swap大于50U有积分，每周更新，可LP大于3天
+        - title: Syncswap
+          logo: syncswap.png
+          url: https://syncswap.xyz/
+          description: 
+        - title: Mute
+          logo: mute.webp
+          url: https://app.mute.io/swap
+          description: 
+        - title: Syncswap
+          logo: syncswap.png
+          url: https://syncswap.xyz/
+          description: ""
+        - title: Zksync-lite
+          logo: partner-zksync-lite.svg
+          url: https://lite.zksync.io/account/
+          description: 最少要转0.003eth，0.0015+激活
+        - title: Zksync-lite-NFT地址
+          logo: partner-zksync-lite.svg
+          url: https://ipfs.io/ipfs/QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/
+          description: mintNFT的ipfs地址
+        - title: mint-NFT-便宜就可以做
+          logo: rsz_zksync era.webp
+          url: https://zk24.hypercomic.io/collect_hk.html
+          description: 贵了就不做
+        - title: 
+          logo: 
+          url: 
+          description: 
+
+
+    - term: 虫洞Wormhole
+      links:
+        - title: Wormhole官推
+          logo: wormhole.webp
+          url: https://twitter.com/wormholecrypto
+          description: 
+        - title: Mayan交互跨链
+          logo: wormhole.webp
+          url: https://swap.mayan.finance/
+          description: ARB eth-20U左右->Polygon USDC，花费2U，大概需要30分钟
+        - title: Allbridge跨链(选Wormhole)
+          logo: wormhole.webp
+          url: https://core.allbridge.io/?f=POL&ft=USDC&t=BSC&tt=USDT
+          description: Polygon USDC-->BSC USDT，花费0.53U，大概需要20分钟
+        - title: 官网跨链桥portalbridge
+          logo: wormhole.webp
+          url: https://portalbridge.com/
+          description: 可以和aptos钱包，solona钱包这些其他的来回多跨几次，每次20分钟，最后换成base的eth，然后下一步nft跨链
+        - title: merkly跨链
+          logo: wormhole.webp
+          url: https://minter.merkly.com/wormhole
+          description: 全部mint需要7U，ETH/OP/ARB/AV,这四个太贵，可略过，只需要mint其他的就行
+        - title: zealy虫洞任务
+          logo: wormhole.webp
+          url: https://zealy.io/c/wormhole/invite/2WzSR1u5K8wVr_XO_YzNu
+          description: 用的kasa的推荐链接，邀请10个人+400分
+
+        - title: 虫洞layer3任务
+          logo: wormhole.webp
+          url: https://layer3.xyz/quests/intro-to-wormhole
+          description: 
+
+
+    - term: Solana
+      links:
+        - title: Phantom钱包，swap以及NFT
+          logo: solana.png
+          url: 
+          description: 钱包只要要有0.1sol；钱包-右下角网络-任务-按要求点就行了，点完了回来MintNFT；还要要用钱包自己的来回swap功能
+        - title: MarinadeFinance 博 $MNDE （未发）
+          logo: solana.png
+          url: https://marinade.finance/app/
+          description: Stake 0.5 SOL，换等值 mSOL（我这存了0.4sol，换了0.343msol）
+        - title: marginfi 博 $MFI（未发）
+          logo: solana.png
+          url: https://app.marginfi.com/
+          description: 存所有mSOL,借SOL（我这里借了0.15sol），Swap it into $LST（我这里用0.1sol换了LST，下一步要组等量的pool，钱包里还要留手续费）
+        - title: MeteoraAG 博 $MET（未发）
+          logo: solana.png
+          url: https://app.meteora.ag/
+          description: Deposit $LST into LST-SOL pool，等量的，前一步需要换少一半的sol，不够的话上一步再换回来
+        - title: Kamino_Finance 博 $KAMINO（未发）
+          logo: solana.png
+          url: https://app.kamino.finance/
+          description: 上面选Liquidity,然后选sol最高的一个pool，组单边的pool就行，勾选single, 0.1sol就可以
+        - title: tensor_hq 博 $TENSOR（未发）
+          logo: solana.png
+          url: https://www.tensor.trade/
+          description: 可以买一个小花生，0.014sol，然后再挂单卖掉
+        - title: 激活parcl的积分账户，在右侧点激活
+          logo: solana.png
+          url: https://app.parcl.co/points
+          description: Activate points account
+        - title: jup--有条件可以都做下
+          logo: solana.png
+          url: https://jup.ag/swap/SOL-USDC
+          description: solana换20 USDC，后面要用，也算是一笔交互 
+        - title: Parcl 博 $PARCL（未发）
+          logo: solana.png
+          url: https://app.parcl.co/lp
+          description: 把上一步的20 USDC 全都Deposit
+        - title: Drift（未发）
+          logo: solana.png
+          url: https://app.drift.trade/overview
+          description: 最少50USDC的要求，多刷几笔就行，有个几百的交易量就行，太多刷不起
+        - title: Phoenix（未发）
+          logo: solana.png
+          url: https://app.parcl.co/lp
+          description: 把上一步的20 USDC 全都Deposit
+        - title: Parcl 博 $PARCL（未发）
+          logo: solana.png
+          url: https://www.phoenix.trade/
+          description:          
+
+    - term: ZKbridge
+      links:
+        - title: BNB-opBNB官方互换桥
+          logo: 
+          url: https://opbnb-bridge.bnbchain.org/deposit
+          description: 
+        - title: ZKbridge桥
+          logo: 
+          url: https://zkbridge.com/opbnb/token?id=ft-bridge
+          description: 
+        - title: mint-loyalty-目前有中国龙
+          logo: 
+          url: https://zkbridge.com/loyalty
+          description: 
+        - title: Galxe任务
+          logo: 
+          url: https://galxe.com/polyhedra/campaign/GCkmEUN9KB
+          description: 
+
+
+- taxonomy: 测试网
+  icon: fas fa-film fa-lg
+  list:
+    - term: 测试网领水
+      links:
+        - title: Quicknode-首选，不需要注册
+          logo: 
+          url: https://faucet.quicknode.com/ethereum/holesky
+          description: 各个链都有，Sepolia/Holesky/Goerli
+        - title: sepoliafaucet-需要注册
+          logo: 
+          url: https://sepoliafaucet.com/
+          description: ""
+        - title: BTC领测试币
+          logo: 
+          url: https://bitcoinfaucet.uo1.net/send.php
+          description: ""
+        - title: ETH挖测试币
+          logo: 
+          url: https://sepolia-faucet.pk910.de/#/
+          description: Holesky，Sepolia都有
+        - title: 领测试币-需要github账号
+          logo: 
+          url: https://learnweb3.io/faucets/
+          description: 最全，基本所有的测试币都能领
+
+    - term: Karak-5000w(ldben未打开官网)
+      links:
+        - title: 小狐狸添加测试网
+          logo: 
+          url: https://chainlist.org/?testnets=true&search=Karak
+          description: 
+        - title: 领测试币-USDC
+          logo: 
+          url: https://app.subseaprotocol.com/
+          description: 选择“购买保护” >选择池 > 添加资金 ✧ 确认交易; 选择“提供保护” >选择一个保险库 > 添加USDC.e ✧ 确认交易
+
+        - title: 测试币存入Karak测试网
+          logo: 
+          url: https://app.subseaprotocol.com/buy-protection
+          description: 将测试网 Goerli $ETH 和 $USDC 存入 Karak Testnet，然后
+
+    - term: Metis
+      links:
+        - title: 官网
+          logo: metis.svg
+          url: https://decentralize.metis.io/
+          description: 
+        - title: 领测试币-需要电报
+          logo: metis.svg
+          url: https://decentralize.metis.io/
+          description: 
+        - title: 还没弄好
+          logo: metis.svg
+          url: https://testnet.enkixyz.com/home
+          description: 
+        - title: 还没弄好
+          logo: metis.svg
+          url: https://testnet.enkixyz.com/mint&stake/mint
+          description: 
+
+
+    - term: Bera--42M
+      links:
+        - title: 官网
+          logo: Bera.svg
+          url: https://www.berachain.com/
+          description: 可以进入所以的交互网站
+        - title: Bera-Galxe每天领测试币和积分
+          logo: Bera.svg
+          url: https://galxe.com/Berachain/campaign/GCTN3ttM4T
+          description: 
+        - title: Bera-MintNFT（暂时先别做）
+          logo: Bera.svg
+          url: https://faucet.0xhoneyjar.xyz/mint
+          description: 需要honey
+
+    - term: Taiko-20M
+      links:
+        - title: Chainlist添加Taiko
+          logo: taiko.svg
+          url: https://chainlist.org/chain/167008
+          description: ""
+        - title: 领水Holesky
+          logo: taiko.svg
+          url: https://faucet.quicknode.com/ethereum/holesky
+          description: ""
+        - title: Bridge to Katla
+          logo: taiko.svg
+          url: https://bridge.katla.taiko.xyz/
+          description: Holesky->Katla 0.05e
+        - title: Katla swap
+          logo: taiko.svg
+          url: https://swap.katla.taiko.xyz/#/swap?chain=taiko-katla
+          description: swap+pool         
+        - title: 部署合约Thirdweb
+          logo: taiko.svg
+          url: https://thirdweb.com/explore
+          description: NFT or Token
+        - title: 加入Taiko-DC
+          logo: taiko.svg
+          url: https://discord.com/invite/taikoxyz
+          description: ""
+        - title: Taiko-Galxe
+          logo: taiko.svg
+          url: https://galxe.com/taiko/campaign/GCGEitw5xb
+          description: ""
+        - title: Taiko-Gitcoin大于20分领
+          logo: taiko.svg
+          url: https://galxe.com/taiko/campaign/GCGEitw5xb
+          description: ""
+
+
+
+    - term: Quai--10M
+      links:
+        - title: 官网-进DC
+          logo: QUAI.jpeg
+          url: https://linktr.ee/quainetwork
+          description: 可以进入所以的交互网站
+        - title: Quai-考拉钱包下载
+          logo: QUAI.jpeg
+          url: https://koalawallet.io/download
+          description: 
+        - title: Quai领水
+          logo: QUAI.jpeg
+          url: https://faucet.quai.network/
+          description: 需要honey
+        - title: 在钱包里给自己转测试币
+          logo: QUAI.jpeg
+          url: 
+          description: 多转几次
+        - title: Quai-Galxe任务
+          logo: QUAI.jpeg
+          url: 
+          description: http://galxe.com/quai
+
+    - term: Particle--9M
+      links:
+        - title: Particle-需要邀请码
+          logo: Particle.ico
+          url: 
+          description: 
+        - title: Particle-Galxe
+          logo: Particle.ico
+          url: https://galxe.com/particle
+          description:          
+        - title: Particle-Blast域名
+          logo: Particle.ico
+          url: https://app.blastns.domains/ 
+          description: 
+        - title: Blast和猫头鹰的NFT
+          logo: Particle.ico
+          url: https://galxe.com/OwltoFinance/campaign/GCQijtwfsP
+          description: 顺便做了，加入猫头鹰DC就可以回来领了
+        - title: 猫头鹰跨链
+          logo: 
+          url: https://owlto.finance/
+          description: Galxe任务Mint需要Blast测试币，通过这个转
+
+    - term: SatoshiVM
+      links:
+        - title: 官网
+          logo: SatoshiVM.png
+          url: https://www.satoshivm.io/
+          description: 从官网进TW和DC
+        - title: 小狐狸添加SatoshiVM测试网
+          logo: SatoshiVM.png
+          url: https://docs.satoshivm.io/user-guide/network-information#network-configuration
+          description: 
+        - title: 领BTC测试币
+          logo: SatoshiVM.png
+          url: https://bitcoinfaucet.uo1.net/send.php
+          description: 测试网，Native Segwit的地址（m/84）
+        - title: 领Sepolia测试币
+          logo: SatoshiVM.png
+          url: https://faucet.quicknode.com/ethereum/sepolia
+          description: 如果不能领就去上面其他网址领水
+        - title: BTC和Sepolia来回Bridge
+          logo: SatoshiVM.png
+          url: https://bridge.satoshivm.io/
+          description: BTC->SatoshiVM, Sepolia->SatoshiVM
+
+    - term: Fuel
+      links:
+        - title: Fuel钱包
+          logo: Fuel.png
+          url: https://wallet.fuel.network/docs/install/
+          description: ""
+        - title: 领测试币
+          logo: Fuel.png
+          url: http://faucet-beta-4.fuel.network/
+          description: ""
+        - title: 跨链桥
+          logo: Fuel.png
+          url: https://alpha.fuel.network/bridge?from=eth&to=fuel
+          description: 来回互跨，也可以用这种方式，来获得测试ETH
+        - title: SwayLand上铸造所有可用代币
+          logo: Fuel.png
+          url: https://swaylend.com/#/faucet
+          description: 
+        - title: 创建保险库并存款
+          logo: Fuel.png
+          url: https://app.bsafe.pro/
+          description: 
+        - title: Fuel加入工会（要求DC6个月）
+          logo: Fuel.png
+          url: https://guild.xyz/fuel
+          description: 来回互跨，也可以用这种方式，来获得测试ETH
+        - title: 自己转一笔给自己
+          logo: Fuel.png
+          url: 
+          description: Fuel Wallet中创建另一个钱包，发送任意ETH金额（例如0.01）
+        - title: 注册个域名
+          logo: Fuel.png
+          url: https://fuelnomen-testnet.netlify.app/
+          description: 
+        - title: 买卖NFT
+          logo: Fuel.png
+          url: https://beta.thundernft.market/
+          description: 
+        - title: game
+          logo: Fuel.png
+          url: https://swayfarm.xyz/
+          description: 
+
+- taxonomy: 素材资源
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 网盘资源
+      links:
+
+    - term: 图标素材
+      links:
+
+    - term: 图标设计
+      links:
+
+    - term: 平面素材
+      links:
+
+    - term: 字体资源
+      links:
+   
+    - term: PPT资源
+      links:
+
+      
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 图形创意
+      links:
+
+    - term: 界面设计
+      links:
+
+    - term: 在线配色
+      links:
+
+    - term: 在线工具
+      links:
+
+        
+    - term: 谷歌插件
+      links:
+
+
+
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 资讯书籍
+      links:
+ 
+    - term: 博客论坛
+      links:
+
+    - term: 设计规范
+      links:
+
+    - term: 视频教程
+      links:
+
+- taxonomy: 铭文
+  icon: far fa-star
+  links: 
+    - title: ZKS铭文
+      logo: 
+      url: https://bigint.co/inscriptions/launchpad
+      description: ""
+    - title: STARK铭文
+      logo: 
+      url: https://starki.io/tokens
+      description: ""
+    - title: AVAX铭文
+      logo: 
+      url: https://avascriptions.com/market
+      description: ""
+    - title: IOSK铭文
+      logo: 
+      url: https://www.iostmarket.io/#/marketplaceDetail?id=IOSK
+      description: ""
+    - title: APTOS铭文
+      logo: 
+      url: https://apt-20.com/
+      description: ""
+    - title: opbnb铭文
+      logo: 
+      url: https://opbrc.com/
+      description: ""
+    - title: noscription鸵鸟
+      logo: 
+      url: https://noscription.org/
+      description: ""
+    - title: SUI铭文
+      logo: 
+      url: https://mrc20.app/
+      description: ""
+    - title: BRC420蓝水晶
+      logo: 
+      url: https://brc420.io/market?tick=c98e7744706374696203b4e4981a834f10b92e01225e45d2fdca6fa58ed8c151i0
+      description: ""
+    - title: BLOB铭文，要求Gitcoin大于20分
+      logo: 
+      url: https://blobscriptions.xyz/
+      description: ""
+    - title: dune看板
+      logo: 
+      url: https://dune.com/browse/dashboards
+      description: ""
+    - title: 实时监控看板
+      logo: 
+      url: https://whatscription.com/
+      description: ""
